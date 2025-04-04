@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665139753 source:c:\users\hp\onedrive\desktop\projecs\program to calculate bill\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
