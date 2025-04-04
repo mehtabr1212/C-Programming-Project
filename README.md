@@ -1,4 +1,4 @@
-# 🛒 Raj Grocery Store - Billing System
+# 🛒 Raju Grocery Store - Billing System
 
 A simple and interactive **C-based console application** for managing grocery purchases and billing at **Raj Grocery Store**. This project allows users to view available grocery products, input purchase details, and generate a final bill with applicable discounts.
 
@@ -47,8 +47,12 @@ A simple and interactive **C-based console application** for managing grocery pu
 4. Formatted Output (printf)
 5. Input Handling and Validation
 
+---
+
 ## Acknowledgements
 This project was developed as part of a learning exercise to understand the basics of C programming through real-life simulations.
+
+---
 
 ## License
 This project is licensed under the MIT License.
